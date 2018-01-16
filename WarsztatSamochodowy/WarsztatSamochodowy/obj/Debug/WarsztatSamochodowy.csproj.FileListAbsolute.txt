@@ -1,0 +1,7 @@
+C:\Users\Michał\source\repos\WarsztatSamochodowy\WarsztatSamochodowy\bin\Debug\WarsztatSamochodowy.exe.config
+C:\Users\Michał\source\repos\WarsztatSamochodowy\WarsztatSamochodowy\bin\Debug\WarsztatSamochodowy.exe
+C:\Users\Michał\source\repos\WarsztatSamochodowy\WarsztatSamochodowy\bin\Debug\WarsztatSamochodowy.pdb
+C:\Users\Michał\source\repos\WarsztatSamochodowy\WarsztatSamochodowy\obj\Debug\WarsztatSamochodowy.csprojResolveAssemblyReference.cache
+C:\Users\Michał\source\repos\WarsztatSamochodowy\WarsztatSamochodowy\obj\Debug\WarsztatSamochodowy.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\WarsztatSamochodowy\WarsztatSamochodowy\obj\Debug\WarsztatSamochodowy.exe
+C:\Users\Michał\source\repos\WarsztatSamochodowy\WarsztatSamochodowy\obj\Debug\WarsztatSamochodowy.pdb
